@@ -1,1 +1,5 @@
 # codeigniter-ecommerce
+
+#Structure 
+  - vhs
+  - 
